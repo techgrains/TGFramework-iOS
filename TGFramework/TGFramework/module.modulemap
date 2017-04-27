@@ -1,0 +1,7 @@
+framework module TGFramework {
+    umbrella header "TGFramework.swift"
+
+
+    export *
+    module * { export * }
+}
